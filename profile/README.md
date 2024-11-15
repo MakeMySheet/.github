@@ -4,7 +4,7 @@ Welcome to **MakeMySheet**, an AI-powered tool designed to convert music audio i
 
 MakeMySheet was developed as part of the NUS Orbital 2024 program, and we are excited to offer this service to musicians, hobbyists, and students alike.
 
-### [Visit MakeMySheet](https://makemysheet.com) | [Try our Telegram Bot](https://t.me/MakeMySheetBot)
+### [Visit MakeMySheet](https://makemysheet.com) | [Try our Telegram Bot](https://t.me/makemysheet_bot)
 
 ## What It Does
 
@@ -14,7 +14,7 @@ MakeMySheet provides a streamlined experience for converting music into professi
 - **🎧 MIDI Playback**: Listen to the generated MIDI to assess the quality of the transcription and verify its accuracy.
 - **🎸 Instrument Selection**: Choose the instrument of your preference for conversion. We leverage state-of-the-art machine learning models like **Pop2Piano** and **Spotify's Basic Pitch** for high-quality output.
 - **🌍 Shareable Sheets**: Once converted, you can choose to share your music sheets with others or keep them private.
-- **🤖 Telegram Bot**: Perform conversions right from your Telegram app using our [companion bot](https://t.me/MakeMySheetBot).
+- **🤖 Telegram Bot**: Perform conversions right from your Telegram app using our [companion bot](https://t.me/makemysheet_bot).
 
 ## Architecture Overview
 
